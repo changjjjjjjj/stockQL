@@ -1,0 +1,9 @@
+{
+  "name": "stockQL",
+  "version": "1.0.0",
+  "description": "Yahoo Finance API with GraphQL",
+  "main": "index.js",
+  "repository": "https://github.com/changjjjjjjj/stockQL",
+  "author": "changjjjjjjj",
+  "license": "MIT"
+}
